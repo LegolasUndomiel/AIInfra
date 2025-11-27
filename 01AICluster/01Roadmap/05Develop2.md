@@ -187,7 +187,7 @@ NVIDIA 的 DGX 系列服务器及其集群解决方案，清晰地展现了其�
 
 4. ALPS-AI 超算新标杆，20E 级 AI 算力集群
 
-ALPS-AI 作为 20E 级 AI 算力集群的新标杆，由瑞士国家计算机中心（CSCS）打造，采用 ARM 架构的 Grace CPU 与 NVIDIA 新一代 Hopper GPU 组合而成，算力性能与硬件配置均处于行业领先水平。这一标杆案例背后，是 NVIDIA 技术在超级计算领域的快速普及：2024 年全球超级计算机 500 强榜单中，近 2/3 的高性能计算机（HPC）配备了 NVIDIA GPU 或 Mellanox 系统，而三年前采用英伟达技术的超级计算机占比还不足榜单的一半，其技术生态在超算领域的影响力已实现显著跃升。
+ALPS作为 20E 级 AI 算力集群的新标杆，由瑞士国家计算机中心（CSCS）打造，采用 ARM 架构的 Grace CPU 与 NVIDIA 新一代 Hopper GPU 组合而成，算力性能与硬件配置均处于行业领先水平。这一标杆案例背后，是 NVIDIA 技术在超级计算领域的快速普及：2024 年全球超级计算机 500 强榜单中，近 2/3 的高性能计算机（HPC）配备了 NVIDIA GPU 或 Mellanox 系统，而三年前采用英伟达技术的超级计算机占比还不足榜单的一半，其技术生态在超算领域的影响力已实现显著跃升。
 
 ![ALPS-AI](images/05Develop226.png)
 
@@ -205,3 +205,27 @@ ALPS-AI 作为 20E 级 AI 算力集群的新标杆，由瑞士国家计算机中
 <html>
 <iframe src="https://player.bilibili.com/player.html?isOutside=true&aid=114889167215790&bvid=BV14kgizdEmc&cid=31179934300&p=1&as_wide=1&high_quality=1&danmaku=0&t=30&autoplay=0" width="100%" height="500" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 </html>
+
+
+## 参考与引用
+[Intel产品](https://www.intel.com/content/www/us/en/products/overview.html)
+
+[Intel收入结构报道](https://finance.sina.com.cn/roll/2024-12-03/doc-incyezvp1414633.shtml)
+
+[极光超算](https://zh.wikipedia.org/zh-cn/%E6%9E%81%E5%85%89_%E8%B6%85%E7%BA%A7%E8%AE%A1%E7%AE%97%E6%9C%BA)
+
+[AMD霄龙服务器](https://www.amd.com/zh-cn/products/processors/server/epyc.html)
+
+[AMD霄龙CPU和镭龙GPU](https://www.amd.com/zh-cn/products/processors/server/epyc/ai/9005-host-cpu-gpu.html)
+
+[Frontier](https://zh.wikipedia.org/zh-hans/%E5%89%8D%E6%B2%BF%E8%B6%85%E7%B4%9A%E9%9B%BB%E8%85%A6)
+
+[Nvidia收入结构报道](https://cn.investing.com/analysis/article-200483837)
+
+[Nvidia芯片架构演进](https://zhuanlan.zhihu.com/p/682360619)
+
+[Nvidia DGX服务器演进](https://en.wikipedia.org/wiki/Nvidia_DGX)
+
+[ALPS超级计算机](https://en.wikipedia.org/wiki/Alps_(supercomputer))
+
+
